@@ -1,0 +1,11 @@
+  .jumbotron {
+      background: #9C80D9;
+      color: white;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 25px;
+  }
+  
+  .btn {
+      background: #809ED9;
+      border: #D599F7;
+  }
